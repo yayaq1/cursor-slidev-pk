@@ -68,7 +68,8 @@ layout: cover
 - **Sanjeed**: 
   - Topic: _How I made these slides using Cursor and Background Agent demo_
   - Applied AI consultant & Cursor Ambassador India
-  - Past: PM at AI & Fintech startups, IIT Madras grad
+  - Created [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - 1400+ stars
+  - Worked with Langchain on multi-turn evals in the [openevals repo by Langchain](https://github.com/langchain-ai/openevals?tab=readme-ov-file#acknowledgements)
   - https://x.com/sanjeed_i · sanjeed.in
 
 ---
