@@ -39,23 +39,23 @@
   height: 200vmax;
   transform: translate(-50%, -50%);
   background: conic-gradient(from 0deg, #ff0080, #ff8c00, #40e0d0, #ff0080);
-  filter: blur(150px) saturate(1.2);
-  opacity: 0.5;
-  animation: subtleGlow 45s ease-in-out infinite alternate;
+  filter: blur(140px) saturate(1.4);
+  opacity: 0.7;
+  animation: subtleGlow 35s ease-in-out infinite alternate;
 }
 
 @keyframes subtleGlow {
   0% {
     transform: translate(-50%, -50%) scale(1);
-    opacity: 0.4;
+    opacity: 0.6;
   }
   50% {
-    transform: translate(-52%, -48%) scale(1.05);
-    opacity: 0.6;
+    transform: translate(-55%, -45%) scale(1.15);
+    opacity: 0.8;
   }
   100% {
     transform: translate(-50%, -50%) scale(1);
-    opacity: 0.4;
+    opacity: 0.6;
   }
 }
 </style> 
