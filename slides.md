@@ -56,24 +56,24 @@ layout: cover
 
 # Speaker 2
 
-- **Rudrag Rudraksh Karpe**: _Setting up cursor rules_
-  - LLM Engineer at ZS Associates
-  - Google Summer of Code Contributor @ openSUSE
+- **Darshill**: _Rapid Cross-Platform Refactors with Cursor Agent_
+  - Building http://Linkrunner.io
+  - Founding Team @bluelearn
 
 ---
 
 # Speaker 3
 
-- **Siddhant Goswami**: 
-  - Built & scaled 3 products to $10M+  
-  - Building @100xengineers, 2 exits (Tapchief, Scenes)  
+- **Siddhant Goswami**:
+  - Built & scaled 3 products to $10M+
+  - Building @100xengineers, 2 exits (Tapchief, Scenes)
   - https://x.com/geeksiddhant
 
 ---
 
 # Speaker 4
 
-- **Sanjeed**: 
+- **Sanjeed**:
   - Topic: _How I made these slides using Cursor and Background Agent demo_
   - Applied AI consultant & Cursor Ambassador India
   - Created [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - 1400+ stars
@@ -84,9 +84,9 @@ layout: cover
 
 # Speaker 5
 
-- **Darshill**: _Rapid Cross-Platform Refactors with Cursor Agent_
-  - Building http://Linkrunner.io
-  - Founding Team @bluelearn
+- **Rudrag Rudraksh Karpe**: _Setting up cursor rules_
+  - LLM Engineer at ZS Associates
+  - Google Summer of Code Contributor @ openSUSE
 
 ---
 
