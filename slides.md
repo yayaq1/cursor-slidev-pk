@@ -5,9 +5,11 @@ info: |
 class: bg-[#0F0F0F] text-white text-center
 mdc: true
 theme: slidev-theme-cursor
+layout: cover
 ---
 
-<!-- Title Slide -->
+---
+
 <GlowBackground>
   <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Bangalore</h1>
 </GlowBackground>
@@ -97,6 +99,6 @@ _Join our WhatsApp group & stay updated on all things Cursor_
 # Thank You
 
 Questions?  
-Find me: <https://www.sanjeed.in> · <https://linkedin.com/in/msanjeed>
+Find me: <https://www.sanjeed.in> · <https://linkedin.com/in/msanjeed> · <https://x.com/sanjeed_i>
 
 <small>© Cursor Community</small> 
