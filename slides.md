@@ -7,6 +7,11 @@ mdc: true
 theme: slidev-theme-cursor
 layout: cover
 ---
+<div class="flex flex-col items-center gap-4">
+  <h2 class="text-2xl font-bold">Access the Slides</h2>
+  <img src="./assets/slides_qr.png" alt="Cursor Logo" class="mx-auto" />
+  <a href="https://sanjeed5.github.io/cursor-slidev/" class="text-lg hover:underline">https://sanjeed5.github.io/cursor-slidev/</a>
+</div>
 
 ---
 
