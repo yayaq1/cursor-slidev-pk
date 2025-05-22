@@ -48,6 +48,22 @@ layout: cover
 
 # Speaker 1
 
+- **Anurag**: _Scaling a Portfolio of Products with Cursor_
+  - Indie Founder @productlogz, @quotesmatic_ai
+  - https://x.com/ak_8085
+
+---
+
+# Speaker 2
+
+- **Rudrag Rudraksh Karpe**: _Setting up cursor rules_
+  - LLM Engineer at ZS Associates
+  - Google Summer of Code Contributor @ openSUSE
+
+---
+
+# Speaker 3
+
 - **Siddhant Goswami**: 
   - Built & scaled 3 products to $10M+  
   - Building @100xengineers, 2 exits (Tapchief, Scenes)  
@@ -55,15 +71,7 @@ layout: cover
 
 ---
 
-# Speaker 2
-
-- **Anurag**: _Scaling a Portfolio of Products with Cursor_
-  - Indie Founder @productlogz, @quotesmatic_ai
-  - https://x.com/ak_8085
-
----
-
-# Speaker 3
+# Speaker 4
 
 - **Sanjeed**: 
   - Topic: _How I made these slides using Cursor and Background Agent demo_
@@ -71,6 +79,14 @@ layout: cover
   - Created [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - 1400+ stars
   - Worked with Langchain on multi-turn evals in the [openevals repo by Langchain](https://github.com/langchain-ai/openevals?tab=readme-ov-file#acknowledgements)
   - https://x.com/sanjeed_i · sanjeed.in
+
+---
+
+# Speaker 5
+
+- **Darshill**: _Rapid Cross-Platform Refactors with Cursor Agent_
+  - Building http://Linkrunner.io
+  - Founding Team @bluelearn
 
 ---
 
