@@ -97,8 +97,10 @@ _Join our WhatsApp group & stay updated on all things Cursor_
 ---
 
 # Thank You
+Questions? Reach out to me on X!
 
-Questions?  
-Find me: <https://www.sanjeed.in> · <https://linkedin.com/in/msanjeed> · <https://x.com/sanjeed_i>
+- Website: <https://www.sanjeed.in>
+- Twitter: <https://x.com/sanjeed_i>
+- LinkedIn: <https://linkedin.com/in/msanjeed>
 
 <small>© Cursor Community</small> 
