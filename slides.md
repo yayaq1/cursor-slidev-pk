@@ -8,7 +8,6 @@ theme: slidev-theme-cursor
 ---
 
 <!-- Title Slide -->
-<!-- class: bg-black text-white -->
 <GlowBackground>
   <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Bangalore</h1>
 </GlowBackground>
