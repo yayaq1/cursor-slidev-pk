@@ -17,6 +17,9 @@ importers:
       '@slidev/theme-seriph':
         specifier: latest
         version: 0.25.0
+      slidev-theme-cursor:
+        specifier: link:slidev-theme-cursor
+        version: link:slidev-theme-cursor
       vue:
         specifier: ^3.5.14
         version: 3.5.14(typescript@5.8.3)
