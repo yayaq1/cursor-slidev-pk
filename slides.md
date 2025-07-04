@@ -7,7 +7,7 @@ mdc: true
 theme: slidev-theme-cursor
 layout: cover
 ---
-<div class="flex flex-col items-center gap-6">
+<div class="flex flex-col items-center justify-center gap-6 h-full">
   <h2 class="text-4xl font-bold">Access the Slides</h2>
   <img src="./assets/slides_qr.png" alt="Slides QR Code" class="mx-auto w-64 h-64" />
   <p class="text-2xl">Slides URL will be shared soon</p>
@@ -23,101 +23,87 @@ layout: cover
 
 # Community Map
 
-<a href="https://lu.ma/cursorcommunity/map" target="_blank">
-  <img src="./assets/map.png" alt="Community Map" class="mx-auto my-auto w-full max-w-4xl" />
-</a>
+<div class="flex items-center justify-center h-full">
+  <a href="https://lu.ma/cursorcommunity/map" target="_blank">
+    <img src="./assets/map.png" alt="Community Map" class="mx-auto w-full max-w-4xl" />
+  </a>
+</div>
 
 ---
 
 # Welcome
 
-<div class="text-3xl space-y-6">
-
-- **Yahya Qureshi** – Cursor Ambassador Pakistan
-- **Passionate builder, tech enthusiast, nerd**
-- Thanks to **National Incubation Center Islamabad** for the venue
-
+<div class="flex flex-col justify-center h-full">
+  <div class="text-3xl space-y-8">
+    <div>• **Yahya Qureshi** – Cursor Ambassador Pakistan</div>
+    <div>• **Passionate builder, tech enthusiast, nerd**</div>
+    <div>• Thanks to **National Incubation Center Islamabad** for the venue</div>
+  </div>
 </div>
 
 ---
 
 # Agenda & Schedule
 
-<div class="text-3xl space-y-4">
-
-**6:00 PM** - Welcome & Settling In (15 min)
-
-**6:15 PM** - Introductions & Chit Chat (15 min)
-
-**6:30 PM** - Tech Demo (20 min)
-
-**6:50 PM** - Speaker: Zohaib Adnan (15 min)
-
-**7:05 PM** - Audience Engagement (10 min)
-
-**7:15 PM** - Special Guest: Juan Bautista Martinez (25 min)
-
-**7:40 PM** - Networking & Food (20 min)
-
+<div class="flex flex-col justify-center h-full">
+  <div class="text-2xl space-y-6">
+    <div class="font-bold text-3xl mb-8">Schedule</div>
+    <div>**6:00 PM** - Welcome & Settling In (15 min)</div>
+    <div>**6:15 PM** - Introductions & Chit Chat (15 min)</div>
+    <div>**6:30 PM** - Tech Demo (20 min)</div>
+    <div>**6:50 PM** - Speaker: Zohaib Adnan (15 min)</div>
+    <div>**7:05 PM** - Audience Engagement (10 min)</div>
+    <div>**7:15 PM** - Special Guest: Juan Bautista Martinez (25 min)</div>
+    <div>**7:40 PM** - Networking & Food (20 min)</div>
+  </div>
 </div>
 
 ---
 
 # Tech Demo
 
-<div class="text-4xl space-y-8 text-center">
-
-**Live Cursor Demonstration**
-
-Showcasing the power of AI-powered coding
-
-**Interactive Session**
-
+<div class="flex flex-col items-center justify-center h-full text-center space-y-12">
+  <div class="text-5xl font-bold">Live Cursor Demonstration</div>
+  <div class="text-3xl">Showcasing the power of AI-powered coding</div>
+  <div class="text-4xl font-semibold">Interactive Session</div>
 </div>
 
 ---
 
 # Speaker
 
-<div class="text-3xl space-y-6">
-
-**Zohaib Adnan**
-
-**Topic:** _How Cursor Supercharged the Processes at His Company_
-
-- Backend Engineer @ Antematter
-- 15 minutes presentation
-
+<div class="flex flex-col justify-center h-full">
+  <div class="text-3xl space-y-8">
+    <div class="text-4xl font-bold">Zohaib Adnan</div>
+    <div class="text-2xl italic">Topic: How Cursor Supercharged the Processes at His Company</div>
+    <div class="space-y-4">
+      <div>• Backend Engineer @ Antematter</div>
+      <div>• 15 minutes presentation</div>
+    </div>
+  </div>
 </div>
 
 ---
 
 # Audience Engagement
 
-<div class="text-4xl space-y-8 text-center">
-
-**Interactive Q&A**
-
-**Share Your Cursor Stories**
-
-**Tips & Tricks Exchange**
-
+<div class="flex flex-col items-center justify-center h-full text-center space-y-12">
+  <div class="text-4xl font-bold">Interactive Q&A</div>
+  <div class="text-4xl font-bold">Share Your Cursor Stories</div>
+  <div class="text-4xl font-bold">Tips & Tricks Exchange</div>
 </div>
 
 ---
 
 # Special Guest Speaker from Anysphere!
 
-<div class="text-3xl space-y-6">
-
-**Juan Bautista Martinez**
-
-**QA Engineer @ Anysphere**
-
-_Joining us at 7:15 PM_
-
-**Topic:** Q&A with Pakistan Cursor Community
-
+<div class="flex flex-col justify-center h-full">
+  <div class="text-3xl space-y-8">
+    <div class="text-4xl font-bold">Juan Bautista Martinez</div>
+    <div>**QA Engineer @ Anysphere**</div>
+    <div class="text-2xl italic">Joining us at 7:15 PM</div>
+    <div class="text-2xl">**Topic:** Q&A with Pakistan Cursor Community</div>
+  </div>
 </div>
 
 ---
@@ -125,10 +111,10 @@ _Joining us at 7:15 PM_
 # Join the Cursor Pakistan Community
 
 <div class="flex items-center justify-center h-full">
-<div class="text-center space-y-6">
-  <h2 class="text-4xl font-bold">WhatsApp Community</h2>
-  <img src="./assets/cursor_pakistan_qr.png" alt="Cursor Pakistan QR Code" class="w-96 mx-auto" />
-</div>
+  <div class="text-center space-y-6">
+    <h2 class="text-4xl font-bold">WhatsApp Community</h2>
+    <img src="./assets/cursor_pakistan_qr.png" alt="Cursor Pakistan QR Code" class="w-96 mx-auto" />
+  </div>
 </div>
 
 ---
@@ -136,42 +122,38 @@ _Joining us at 7:15 PM_
 # Scan to Join
 
 <div class="flex items-center justify-center h-full">
-<div class="text-center space-y-6">
-  <img src="./assets/cursor_pakistan_qr.png" alt="Pakistan Community QR Code" class="w-80 mx-auto" />
-  <p class="text-2xl">Join our WhatsApp community & stay updated</p>
-  <a href="https://chat.whatsapp.com/L3Vpb7LZ9OmIQXAkZzbybt" class="text-xl text-blue-400 hover:underline">WhatsApp Group Link</a>
-</div>
+  <div class="text-center space-y-6">
+    <img src="./assets/cursor_pakistan_qr.png" alt="Pakistan Community QR Code" class="w-80 mx-auto" />
+    <p class="text-2xl">Join our WhatsApp community & stay updated</p>
+    <a href="https://chat.whatsapp.com/L3Vpb7LZ9OmIQXAkZzbybt" class="text-xl text-blue-400 hover:underline">WhatsApp Group Link</a>
+  </div>
 </div>
 
 ---
 
 # Networking & Food
 
-<div class="text-4xl space-y-8 text-center">
-
-**Connect with Fellow Developers**
-
-**Share Your Projects**
-
-**Enjoy Refreshments**
-
-**Build the Pakistan Cursor Community**
-
+<div class="flex flex-col items-center justify-center h-full text-center space-y-10">
+  <div class="text-4xl font-bold">Connect with Fellow Developers</div>
+  <div class="text-4xl font-bold">Share Your Projects</div>
+  <div class="text-4xl font-bold">Enjoy Refreshments</div>
+  <div class="text-4xl font-bold">Build the Pakistan Cursor Community</div>
 </div>
 
 ---
 
 # Thank You
 
-<div class="text-3xl space-y-6">
-
-**Questions?**
-
-**Yahya Qureshi**
-Cursor Ambassador Pakistan
-
-**Let's build amazing things together!**
-
+<div class="flex flex-col justify-center h-full relative">
+  <div class="text-3xl space-y-8 text-center">
+    <div class="text-4xl font-bold">Questions?</div>
+    <div class="space-y-4">
+      <div>**Yahya Qureshi**</div>
+      <div>Cursor Ambassador Pakistan</div>
+    </div>
+    <div class="text-3xl font-semibold mt-8">Let's build amazing things together!</div>
+  </div>
+  <div class="absolute bottom-8 left-1/2 transform -translate-x-1/2">
+    <small class="text-xl">© CURSOR COMMUNITY PAKISTAN</small>
+  </div>
 </div>
-
-<small class="text-xl">© Cursor Community Pakistan</small>
