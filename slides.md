@@ -6,14 +6,19 @@ class: bg-[#0F0F0F] text-white text-center
 mdc: true
 theme: slidev-theme-cursor
 layout: cover
+
+
 ---
+<!--
 <div class="flex flex-col items-center justify-center gap-6 h-full">
   <h2 class="text-4xl font-bold">Access the Slides</h2>
   <img src="./assets/slides_qr.png" alt="Slides QR Code" class="mx-auto w-64 h-64" />
   <p class="text-2xl">Slides URL will be shared soon</p>
 </div>
 
+ -->
 ---
+
 
 <GlowBackground>
   <h1 class="text-8xl md:text-9xl font-bold tracking-tight text-white">Cursor Meetup Pakistan</h1>
@@ -35,9 +40,9 @@ layout: cover
 
 <div class="flex flex-col justify-center h-full">
   <div class="text-3xl space-y-8">
-    <div>• **Yahya Qureshi** – Cursor Ambassador Pakistan</div>
-    <div>• **Passionate builder, tech enthusiast, nerd**</div>
-    <div>• Thanks to **National Incubation Center Islamabad** for the venue</div>
+    <div>• Yahya Qureshi – Cursor Ambassador Pakistan</div>
+    <div>• Passionate builder, tech enthusiast, nerd</div>
+    <div>• Thanks to National Incubation Center Islamabad for the venue</div>
   </div>
 </div>
 
@@ -48,13 +53,13 @@ layout: cover
 <div class="flex flex-col justify-center h-full">
   <div class="text-2xl space-y-6">
     <div class="font-bold text-3xl mb-8">Schedule</div>
-    <div>**6:00 PM** - Welcome & Settling In (15 min)</div>
-    <div>**6:15 PM** - Introductions & Chit Chat (15 min)</div>
-    <div>**6:30 PM** - Tech Demo (20 min)</div>
-    <div>**6:50 PM** - Speaker: Zohaib Adnan (15 min)</div>
-    <div>**7:05 PM** - Audience Engagement (10 min)</div>
-    <div>**7:15 PM** - Special Guest: Juan Bautista Martinez (25 min)</div>
-    <div>**7:40 PM** - Networking & Food (20 min)</div>
+    <div>6:00 PM - Welcome & Settling In (15 min)</div>
+    <div>6:15 PM - Introductions & Chit Chat (15 min)</div>
+    <div>6:30 PM - Tech Demo (20 min)</div>
+    <div>6:50 PM - Speaker: Zohaib Adnan (15 min)</div>
+    <div>7:05 PM - Audience Engagement (10 min)</div>
+    <div>7:15 PM - Special Guest: Juan Bautista Martinez (25 min)</div>
+    <div>7:40 PM - Networking & Food (20 min)</div>
   </div>
 </div>
 
@@ -75,10 +80,10 @@ layout: cover
 <div class="flex flex-col justify-center h-full">
   <div class="text-3xl space-y-8">
     <div class="text-4xl font-bold">Zohaib Adnan</div>
-    <div class="text-2xl italic">Topic: How Cursor Supercharged the Processes at His Company</div>
+    <div class="text-2xl italic">Topic: How Cursor Supercharged the Processes at Antematter</div>
     <div class="space-y-4">
-      <div>• Backend Engineer @ Antematter</div>
-      <div>• 15 minutes presentation</div>
+      <div>• Senior Software Engineer (L3) @ Antematter</div>
+      <div>• 10 minute talk</div> <!-- Might comment this out -->
     </div>
   </div>
 </div>
@@ -100,9 +105,9 @@ layout: cover
 <div class="flex flex-col justify-center h-full">
   <div class="text-3xl space-y-8">
     <div class="text-4xl font-bold">Juan Bautista Martinez</div>
-    <div>**QA Engineer @ Anysphere**</div>
+    <div>QA Engineer @ Anysphere</div>
     <div class="text-2xl italic">Joining us at 7:15 PM</div>
-    <div class="text-2xl">**Topic:** Q&A with Pakistan Cursor Community</div>
+    <div class="text-2xl">Topic: Q&A with Pakistan Cursor Community</div>
   </div>
 </div>
 
@@ -148,7 +153,7 @@ layout: cover
   <div class="text-3xl space-y-8 text-center">
     <div class="text-4xl font-bold">Questions?</div>
     <div class="space-y-4">
-      <div>**Yahya Qureshi**</div>
+      <div>Yahya Qureshi</div>
       <div>Cursor Ambassador Pakistan</div>
     </div>
     <div class="text-3xl font-semibold mt-8">Let's build amazing things together!</div>
