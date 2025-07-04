@@ -1,22 +1,22 @@
 ---
-title: Cursor Meetup Bangalore
+title: Cursor Meetup Pakistan
 info: |
-  22 May 2025 · 7 PM – 9 PM · Bengaluru, Karnataka
+  4th July 2025 · 6 PM – 8 PM · Islamabad, Pakistan
 class: bg-[#0F0F0F] text-white text-center
 mdc: true
 theme: slidev-theme-cursor
 layout: cover
 ---
-<div class="flex flex-col items-center gap-4">
-  <h2 class="text-2xl font-bold">Access the Slides</h2>
-  <img src="./assets/slides_qr.png" alt="Cursor Logo" class="mx-auto" />
-  <a href="https://sanjeed5.github.io/cursor-slidev/" class="text-lg hover:underline">https://sanjeed5.github.io/cursor-slidev/</a>
+<div class="flex flex-col items-center gap-6">
+  <h2 class="text-4xl font-bold">Access the Slides</h2>
+  <img src="./assets/slides_qr.png" alt="Slides QR Code" class="mx-auto w-64 h-64" />
+  <p class="text-2xl">Slides URL will be shared soon</p>
 </div>
 
 ---
 
 <GlowBackground>
-  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Bangalore</h1>
+  <h1 class="text-8xl md:text-9xl font-bold tracking-tight text-white">Cursor Meetup Pakistan</h1>
 </GlowBackground>
 
 ---
@@ -24,86 +24,111 @@ layout: cover
 # Community Map
 
 <a href="https://lu.ma/cursorcommunity/map" target="_blank">
-  <img src="./assets/map.png" alt="Community Map" class="mx-auto my-auto" />
+  <img src="./assets/map.png" alt="Community Map" class="mx-auto my-auto w-full max-w-4xl" />
 </a>
 
 ---
 
 # Welcome
 
-- **Sanjeed** – Cursor Ambassador India, AI Consultant
-- Thanks to **Lightspeed India Partners** for the venue  
-- Thanks to **Utopia** for being our community partner
+<div class="text-3xl space-y-6">
+
+- **Yahya Qureshi** – Cursor Ambassador Pakistan
+- **Passionate builder, tech enthusiast, nerd**
+- Thanks to **National Incubation Center Islamabad** for the venue
+
+</div>
 
 ---
 
-# Agenda
+# Agenda & Schedule
 
-1. Welcome & Introductions  
-2. Cursor **Power Users Tips & Workflows**  
-3. Special Guest Speaker – **Eric Zakariasson** (Cursor)  
-4. Networking & Community  
+<div class="text-3xl space-y-4">
 
----
+**6:00 PM** - Welcome & Settling In (15 min)
 
-# Speaker 1
+**6:15 PM** - Introductions & Chit Chat (15 min)
 
-- **Anurag**: _Scaling a Portfolio of Products with Cursor_
-  - Indie Founder @productlogz, @quotesmatic_ai
-  - https://x.com/ak_8085
+**6:30 PM** - Tech Demo (20 min)
 
----
+**6:50 PM** - Speaker: Zohaib Adnan (15 min)
 
-# Speaker 2
+**7:05 PM** - Audience Engagement (10 min)
 
-- **Darshill**: _Rapid Cross-Platform Refactors with Cursor Agent_
-  - Building http://Linkrunner.io
-  - Founding Team @bluelearn
+**7:15 PM** - Special Guest: Juan Bautista Martinez (25 min)
+
+**7:40 PM** - Networking & Food (20 min)
+
+</div>
 
 ---
 
-# Speaker 3
+# Tech Demo
 
-- **Siddhant Goswami**:
-  - Built & scaled 3 products to $10M+
-  - Building @100xengineers, 2 exits (Tapchief, Scenes)
-  - https://x.com/geeksiddhant
+<div class="text-4xl space-y-8 text-center">
 
----
+**Live Cursor Demonstration**
 
-# Speaker 4
+Showcasing the power of AI-powered coding
 
-- **Sanjeed**:
-  - Topic: _How I made these slides using Cursor and Background Agent demo_
-  - Applied AI consultant & Cursor Ambassador India
-  - Created [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - 1400+ stars
-  - Worked with Langchain on multi-turn evals in the [openevals repo by Langchain](https://github.com/langchain-ai/openevals?tab=readme-ov-file#acknowledgements)
-  - https://x.com/sanjeed_i · sanjeed.in
+**Interactive Session**
+
+</div>
 
 ---
 
-# Speaker 5
+# Speaker
 
-- **Rudrag Rudraksh Karpe**: _Setting up cursor rules_
-  - LLM Engineer at ZS Associates
-  - Google Summer of Code Contributor @ openSUSE
+<div class="text-3xl space-y-6">
 
----
+**Zohaib Adnan**
 
-# Special Guest Speaker from Cursor!
+**Topic:** _How Cursor Supercharged the Processes at His Company_
 
-**Eric Zakariasson**  
+- Backend Engineer @ Antematter
+- 15 minutes presentation
 
-Follow him on X for best Cursor tips! -> (<https://x.com/ericzakariasson>)
-
-_Topic: Q&A with Bangalore Cursor Community_
+</div>
 
 ---
 
-# Join the Cursor India Group
+# Audience Engagement
+
+<div class="text-4xl space-y-8 text-center">
+
+**Interactive Q&A**
+
+**Share Your Cursor Stories**
+
+**Tips & Tricks Exchange**
+
+</div>
+
+---
+
+# Special Guest Speaker from Anysphere!
+
+<div class="text-3xl space-y-6">
+
+**Juan Bautista Martinez**
+
+**QA Engineer @ Anysphere**
+
+_Joining us at 7:15 PM_
+
+**Topic:** Q&A with Pakistan Cursor Community
+
+</div>
+
+---
+
+# Join the Cursor Pakistan Community
 
 <div class="flex items-center justify-center h-full">
-<img src="./assets/cursor_india.png" alt="Cursor India" class="w-96" />
+<div class="text-center space-y-6">
+  <h2 class="text-4xl font-bold">WhatsApp Community</h2>
+  <img src="./assets/cursor_pakistan_qr.png" alt="Cursor Pakistan QR Code" class="w-96 mx-auto" />
+</div>
 </div>
 
 ---
@@ -111,18 +136,42 @@ _Topic: Q&A with Bangalore Cursor Community_
 # Scan to Join
 
 <div class="flex items-center justify-center h-full">
-<img src="./assets/cursor_india_qr.jpeg" alt="QR Code" class="w-64" />
+<div class="text-center space-y-6">
+  <img src="./assets/cursor_pakistan_qr.png" alt="Pakistan Community QR Code" class="w-80 mx-auto" />
+  <p class="text-2xl">Join our WhatsApp community & stay updated</p>
+  <a href="https://chat.whatsapp.com/L3Vpb7LZ9OmIQXAkZzbybt" class="text-xl text-blue-400 hover:underline">WhatsApp Group Link</a>
+</div>
 </div>
 
-_Join our WhatsApp group & stay updated on all things Cursor_
+---
+
+# Networking & Food
+
+<div class="text-4xl space-y-8 text-center">
+
+**Connect with Fellow Developers**
+
+**Share Your Projects**
+
+**Enjoy Refreshments**
+
+**Build the Pakistan Cursor Community**
+
+</div>
 
 ---
 
 # Thank You
-Questions? Reach out to me on X!
 
-- Website: <https://www.sanjeed.in>
-- Twitter: <https://x.com/sanjeed_i>
-- LinkedIn: <https://linkedin.com/in/msanjeed>
+<div class="text-3xl space-y-6">
 
-<small>© Cursor Community</small> 
+**Questions?**
+
+**Yahya Qureshi**
+Cursor Ambassador Pakistan
+
+**Let's build amazing things together!**
+
+</div>
+
+<small class="text-xl">© Cursor Community Pakistan</small>
